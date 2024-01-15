@@ -1,0 +1,7 @@
+C:\Users\Viplove\source\repos\ConsoleBasedBankApplication\ConsoleBasedBankApplication\bin\Debug\ConsoleBasedBankApplication.exe.config
+C:\Users\Viplove\source\repos\ConsoleBasedBankApplication\ConsoleBasedBankApplication\bin\Debug\ConsoleBasedBankApplication.exe
+C:\Users\Viplove\source\repos\ConsoleBasedBankApplication\ConsoleBasedBankApplication\bin\Debug\ConsoleBasedBankApplication.pdb
+C:\Users\Viplove\source\repos\ConsoleBasedBankApplication\ConsoleBasedBankApplication\obj\Debug\ConsoleBasedBankApplication.csproj.AssemblyReference.cache
+C:\Users\Viplove\source\repos\ConsoleBasedBankApplication\ConsoleBasedBankApplication\obj\Debug\ConsoleBasedBankApplication.csproj.CoreCompileInputs.cache
+C:\Users\Viplove\source\repos\ConsoleBasedBankApplication\ConsoleBasedBankApplication\obj\Debug\ConsoleBasedBankApplication.exe
+C:\Users\Viplove\source\repos\ConsoleBasedBankApplication\ConsoleBasedBankApplication\obj\Debug\ConsoleBasedBankApplication.pdb
